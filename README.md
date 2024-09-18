@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nguyenphu.it1404@gmail.com**
 
-- ⚡ Fun fact **I'm quite interested in Pokemon**
+- ⚡ Fun fact **I'm quite interested in Pokemon. You can also ask me about pc building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
