@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Phú</h1>
-<h3 align="center">I am currently pursuing a bachelor degree in Information Technology major at Ho Chi Minh City University of Science and am eager to secure a Fullstack Developer Internship. This opportunity would allow me to apply my academic knowledge, enhance my programming skills, and contribute to meaningful projects.</h3>
+<h3 align="center">I am currently pursuing a bachelor degree in Information Technology major at Ho Chi Minh City University of Science and am eager to secure an Internship. This opportunity would allow me to apply my academic knowledge, enhance my programming skills, and contribute to meaningful projects.</h3>
 
 - 🌱 I’m currently learning **NodeJS**
 
