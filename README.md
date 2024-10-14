@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nguyenphu.it1404@gmail.com**
 
-- 📄 Know about my experiences at [Personal Portfolio](https://nguyen-ngoc-phu-personal-portfolio.vercel.app)
+- 📄 Know about my experiences at [**Personal Portfolio**](https://nguyen-ngoc-phu-personal-portfolio.vercel.app)
 
 - ⚡ Fun fact **I'm quite interested in Pokemon**
 
