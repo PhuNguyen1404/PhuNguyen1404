@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences at [**Personal Portfolio**](https://nguyen-ngoc-phu-personal-portfolio.vercel.app)
 
-- ⚡ Fun fact **I'm quite interested in Pokemon**
+- ⚡ Fun fact **I'm quite interested in Pokemon and PC building**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
