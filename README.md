@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/phú-nguyễn-ngọc-a57234329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phú-nguyễn-ngọc-a57234329/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/nguyenngocphu.14203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyenngocphu.14203/" height="30" width="40" /></a>
+<a href="nguyenngocphu.14203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyenngocphu.14203/" height="30" width="40" /></a>
 <a href="https://discord.gg/796288412243853333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="796288412243853333" height="30" width="40" /></a>
 </p>
 
