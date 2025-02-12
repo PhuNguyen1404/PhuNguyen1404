@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Ngọc Phú</h1>
-<h3 align="center">I am currently pursuing a bachelor degree in Information Technology major at Ho Chi Minh City University of Science and am eager to secure a Fullstack Developer position This opportunity would allow me to apply my academic knowledge, enhance my programming skills, and contribute to meaningful projects.</h3>
+<h3 align="center">I am currently pursuing a bachelor degree in Information Technology major at Ho Chi Minh City University of Science and am eager to secure a Fullstack Developer position. This opportunity would allow me to apply my academic knowledge, enhance my programming skills, and contribute to meaningful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phunguyen1404&label=Profile%20views&color=0e75b6&style=flat" alt="phunguyen1404" /> </p>
 
