@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **C++,JavaScript, PHP, NodeJS, NextJS or Python**
+- 💬 Ask me about **JavaScript, PHP, NodeJS, NextJS or Python**
 
 - 📫 How to reach me **nguyenphu.it1404@gmail.com**
 
