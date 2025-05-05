@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Soft Skills and Personal Development Learning Website for the Japanese Market**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **PHP/Laravel**
 
 - 💬 Ask me about **JavaScript, PHP, NodeJS, ,ReactJS, NextJS or Python**
 
