@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phunguyen1404&label=Profile%20views&color=0e75b6&style=flat" alt="phunguyen1404" /> </p>
 
-- 🔭 I’m currently working on **Soft Skills and Personal Development Learning Website for the Japanese Market**
+- 🔭 I’m currently working at **FPT Telecom**
 
 - 🌱 I’m currently learning **PHP/Laravel**
 
